@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "MacBook",
+    "category": "Laptop",
+    "priceCents": 1600,
+    "imageSrc": "https://images-na.ssl-images-amazon.com/images/I/613XC3jXclL._SL1200_.jpg",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem iure eum facere minima, dolores repudiandae quo animi earum."
+  },
+  {
+    "id": 2,
+    "name": "HP pavllion",
+    "category": "Laptop",
+    "priceCents": 2100,
+    "imageSrc": "https://m.media-amazon.com/images/I/81yaUrHPUoL._AC_SS450_.jpg",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem iure eum facere minima, dolores repudiandae quo animi earum."
+  },
+  {
+    "id": 3,
+    "name": "Apple Earphone",
+    "category": "Earphone",
+    "priceCents": 1200,
+    "imageSrc": "https://5.imimg.com/data5/SELLER/Default/2020/12/VV/SE/CX/84968335/t-140-500x500.png",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem iure eum facere minima, dolores repudiandae quo animi earum."
+  },
+  {
+    "id": 4,
+    "name": "Dell ",
+    "category": "Laptop",
+    "priceCents": 1800,
+    "imageSrc": "https://images-eu.ssl-images-amazon.com/images/I/81VeKj0FOEL._AC_UL160_SR160,160_.jpg",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem iure eum facere minima, dolores repudiandae quo animi earum."
+  },
+  {
+    "id": 5,
+    "name": "Green",
+    "category": "Secondary Color",
+    "priceCents": 1600,
+    "imageSrc": "https://m.media-amazon.com/images/I/71uCexWtHeL._AC_UY327_QL65_.jpg",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem iure eum facere minima, dolores repudiandae quo animi earum."
+  },
+  {
+    "id": 6,
+    "name": "Asus Headphone",
+    "category": "Headphone",
+    "priceCents": 2100,
+    "imageSrc": "https://5.imimg.com/data5/SELLER/Default/2020/12/VV/SE/CX/84968335/t-140-500x500.png",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem iure eum facere minima, dolores repudiandae quo animi earum."
+  },
+  {
+    "id": 7,
+    "name": "Titan",
+    "category": "Watch",
+    "priceCents": 1200,
+    "imageSrc": "https://images-na.ssl-images-amazon.com/images/I/71bE8TE1YLL._UX385_.jpg",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem iure eum facere minima, dolores repudiandae quo animi earum."
+  },
+  {
+    "id": 8,
+    "name": "Canon",
+    "category": "Camera",
+    "priceCents": 1600,
+    "imageSrc": "https://images-eu.ssl-images-amazon.com/images/I/71Xp-K4MMBL._AC_UL160_SR160,160_.jpg",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem iure eum facere minima, dolores repudiandae quo animi earum."
+  },
+  {
+    "id": 9,
+    "name": "Canon",
+    "category": "Camera",
+    "priceCents": 1600,
+    "imageSrc": "https://images-eu.ssl-images-amazon.com/images/I/71Xp-K4MMBL._AC_UL160_SR160,160_.jpg",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem iure eum facere minima, dolores repudiandae quo animi earum."
+  }
+]
